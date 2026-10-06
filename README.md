@@ -9,13 +9,13 @@ Building web applications, experimenting with new technologies and turning ideas
 </p>
 
 <p>
-  <a href="https://github.com/SEU_USERNAME">
+  <a href="(https://github.com/JoaoPreto1)">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="(https://www.behance.net/joopreto1)">
+    <img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-  <a href="https://SEU_PORTFOLIO.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
