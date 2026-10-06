@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gil Preto
+# João Gil Preto
 
 ### Full-Stack Developer · Creative Developer · Builder
 
