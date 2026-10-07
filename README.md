@@ -3,23 +3,23 @@
 # João Gil Preto
 
 ### Full-Stack Developer · Creative Developer · Builder
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Bandeira de Portugal" width="30"> 
 
 <p>
 Building web applications, experimenting with new technologies and turning ideas into real products.
 </p>
 
 <p>
-  <a href="(https://github.com/JoaoPreto1)">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="(https://www.behance.net/joopreto1)">
-    <img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joão-preto1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
 </div>
 
 ---
