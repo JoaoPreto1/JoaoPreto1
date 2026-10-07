@@ -10,7 +10,7 @@ Building web applications, experimenting with new technologies and turning ideas
 </p>
 
 <p>
-  <a href="(https://www.behance.net/joopreto1)">
+  <a href="https://www.behance.net/joopreto1">
     <img src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/joão-preto1">
