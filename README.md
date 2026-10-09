@@ -34,7 +34,7 @@ Currently exploring:
 
 `Full-Stack Development` · `AI` · `UI/UX` · `3D Web` · `Interactive Experiences`
 
----
+Currently work: Developing an tourist AI app
 
 ## Tech Stack
 
