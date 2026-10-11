@@ -16,7 +16,7 @@ Building web applications, experimenting with new technologies and turning ideas
   <a href="https://www.linkedin.com/in/joão-preto1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="">
+  <a href="www.google.com">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
