@@ -94,11 +94,9 @@ Currently work: Developing a tourist AI app
   <p><b>Stack:</b> <code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code></p>
   <p><b>Type:</b> Full-Stack Web Application</p>
   <br/>
-  <a href="https://github.com/JoaoPreto1/VidaPortugal2026">
-    <img src="https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github" alt="Private Repository" />
+  <a href="https://vidaportugal2026.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Netlify-success?style=flat-square&logo=netlify" alt="Live Demo" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square&logo=construct" alt="In Development" />
 </td>
 
 ## What I Like Building
