@@ -88,18 +88,18 @@ Currently work: Developing a tourist AI app
 </td>
 
 <td width="50%" valign="top">
-  <h3>Eddy</h3>
-  <p><b>Windows Desktop Companion & Interactive Game</b></p>
-  <p>Autonomous virtual desktop pet and native Windows game that roams across screens, reacts in real-time to computer hardware telemetry (CPU/RAM load), and includes an interactive DevMenu.</p>
-  <p><b>Stack:</b> <code>Electron</code> <code>Node.js</code> <code>Windows APIs</code> <code>HTML5/CSS3</code></p>
-  <p><b>Type:</b> Native Desktop Application</p>
+  <h3>VidaPortugal2026</h3>
+  <p><b>Portugal Cost of Living & Economic Data Platform</b></p>
+  <p>Interactive platform focused on the cost of living in Portugal, featuring inflation indicators, city comparisons, food basket analysis, personal budget planning, mortgage simulations, and transparent data sources.</p>
+  <p><b>Stack:</b> <code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code></p>
+  <p><b>Type:</b> Full-Stack Web Application</p>
   <br/>
-  <img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square&logo=construct" alt="In Development" />
+  <a href="https://github.com/JoaoPreto1/VidaPortugal2026">
+    <img src="https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github" alt="Private Repository" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Code-Private-21262D?style=flat-square&logo=lock&logoColor=8b949e" alt="Private Code" />
+  <img src="https://img.shields.io/badge/Status-In_Development-blue?style=flat-square&logo=construct" alt="In Development" />
 </td>
-</tr>
-</table>
 
 ## What I Like Building
 
